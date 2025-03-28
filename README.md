@@ -8,7 +8,9 @@ My certifications:<br>
 `Gitlab Certified Associate`<br>
 `CKA - Certified Kubernetes Administrator`<br>
 `CKAD - Certified Kubernetes Application Developer`<br>
+`CKS - Certified Kubernetes Security Specialist`<br>
 `KCNA - Kubernetes and Cloud Native Associate`<br>
+`KCSA - Kubernetes and Cloud Native Security Associate`<br>
 
 ---
 
